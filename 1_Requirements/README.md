@@ -28,7 +28,7 @@ The system customer transactions, satisfies the requirements of the existing sys
 
 ## STATE OF ART
 ![Number of ATM Vs Time!](https://www.theglobaleconomy.com/graph_country.php?p=8&c=India&i=ATM_machines)
-The usage of ATMs increases with time. 
+The usage of ATMs(in 1000) increases with time(years). 
 
 
 ## Defining Our System

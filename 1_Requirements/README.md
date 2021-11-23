@@ -22,6 +22,7 @@ An ATM is an electronic device which allows a bank’s customer to make financia
 -	For this a new system in invented.
  
 Proposed System:
+
 The system customer transactions, satisfies the requirements of the existing system in full-fledged manner.  Through this system, customer can make fast transactions and view the last transactions easily.
  [https://ieeexplore.ieee.org/document/8783820]
 
@@ -46,17 +47,17 @@ To keep ATM fees down, use an ATM branded by your own bank as often as possible.
 
 ## SWOT ANALYSIS
 ![SWOT-Sample](https://simplybanking.files.wordpress.com/2014/03/indicash.jpg)
-1.Strength:
+Strength:
 -Take less time for efficient and effective service.
 -Easy to use
 -New capabilities, QR
-2.Weakness:
+Weakness:
 -There is no plan for proper recycling of machines or used parts.
 -Lack of aggressive marketing strategies
-3.Opportunity:
+Opportunity:
 -Great possibility for acquisitions and strategic alliances due to strong financial position
 Cheap work force
-4.Threat:
+Threat:
 -High inflation rate when buying spare parts
 
 

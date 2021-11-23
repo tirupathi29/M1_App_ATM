@@ -9,11 +9,8 @@
  * 
  */
 
-
-
 #ifndef ATM_H
 #define ATM_H
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -27,8 +24,6 @@ typedef struct node {
     struct node* link;
 } node;
 
-
-
 /*
   ATM function prototypes
 */
@@ -41,15 +36,11 @@ void saveHistory(node **, char *);
 void removeHistory(node **);
 void showHistory(node **);
 
-
-
 int main(void) {
     int choice1, choice2;
     int pinValid = 0, balance = 0;
 
-    node *head = NULL;
-  
-  
+    node *head = NULL; 
   
 #endif
 

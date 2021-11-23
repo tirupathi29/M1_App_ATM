@@ -2,14 +2,12 @@
 # Requirements
 ## Introduction
 An ATM is an electronic device which allows a bank’s customer to make financial transactions in a public space & check their account balance at any time without the need for a human teller.
-
-•	The customer is identified by a plastic ATM card with a magnetic stripe or a plastic smartcard with a chip.
-
-•	Services available through an ATM
--	Withdraw cash.
--	Transfer money between accounts.
--	Obtain account balance.
--	Make deposits of cash and checks
+The customer is identified by a plastic ATM card with a magnetic stripe or a plastic smartcard with a chip.
+Services available through an ATM
+ *Withdraw cash.
+ *Transfer money between accounts.
+ *Obtain account balance.
+ *Make deposits of cash and checks
 
  ## Research
  Existing System:
@@ -22,15 +20,12 @@ An ATM is an electronic device which allows a bank’s customer to make financia
 -	For this a new system in invented.
  
 Proposed System:
-
 The system customer transactions, satisfies the requirements of the existing system in full-fledged manner.  Through this system, customer can make fast transactions and view the last transactions easily.
  [https://ieeexplore.ieee.org/document/8783820]
-
 
 ## STATE OF ART
 ![Number of ATM Vs Time!](https://www.theglobaleconomy.com/graph_country.php?p=8&c=India&i=ATM_machines)
 The usage of ATMs(in 1000) increases with time(years). 
-
 
 ## Defining Our System
 Automated teller machines (ATMs) are electronic banking outlets that allow people to complete transactions without going into a branch of their bank.
@@ -43,7 +38,6 @@ To keep ATM fees down, use an ATM branded by your own bank as often as possible.
 - Generating Pin
 - Use of ATM
 - Transaction can be done in easily
-
 
 ## SWOT ANALYSIS
 ![SWOT-Sample](https://simplybanking.files.wordpress.com/2014/03/indicash.jpg)
@@ -60,9 +54,8 @@ Cheap work force
 Threat:
 -High inflation rate when buying spare parts
 
+# Requirement
 
-
-# Requirements
 1. VS code
 2. Github as version control
 3. GCC in windows as well as linux
@@ -71,23 +64,22 @@ Threat:
 
 
 # Tools used 
+
 1. MS project professional for creating gantt chart
 2. WPS office for reading txt file
 3. Online tools for creating uml diagrams
 
-
 # 4W's and 1'H
-## Who:  
+## Who  
 ATM user.
-## What:
+## What
 For transaction and need of ATM user.
-## When:
+## When
  As per user need.
-## Where:
+## Where
 ATM at public place.
-## How:
+## How
 By giving input to ATM and it provide the requirements as per user need.
-
 
 # Detail Requirements
 
@@ -104,9 +96,7 @@ By giving input to ATM and it provide the requirements as per user need.
 | LL2 | Keypad need to accept input from user. | Implemented
 
 # Badges
-
-## Badges
-![Github Badge](https://img.shields.io/badge/Code%20grade-B-brightgreen)
-![Github Badge](https://img.shields.io/badge/Code%20Quality%20Score-80-brightgreen)
+![GithubBadge](https://img.shields.io/badge/Code%20grade-B-brightgreen)
+![Githubscore](https://img.shields.io/badge/Code%20Quality%20Score-80-brightgreen)
 
 

@@ -41,10 +41,24 @@ To keep ATM fees down, use an ATM branded by your own bank as often as possible.
 **Features**
 - Generating Pin
 - Use of ATM
+- Transaction can be done in easily
 
 
 ## SWOT ANALYSIS
 ![SWOT-Sample](https://simplybanking.files.wordpress.com/2014/03/indicash.jpg)
+1.Strength:
+-Take less time for efficient and effective service.
+-Easy to use
+-New capabilities, QR
+2.Weakness:
+-There is no plan for proper recycling of machines or used parts.
+-Lack of aggressive marketing strategies
+3.Opportunity:
+-Great possibility for acquisitions and strategic alliances due to strong financial position
+Cheap work force
+4.Threat:
+-High inflation rate when buying spare parts
+
 
 
 # Requirements

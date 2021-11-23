@@ -103,3 +103,10 @@ By giving input to ATM and it provide the requirements as per user need.
 | LL1 | Pin need to be entered in 20sec.|Implemented
 | LL2 | Keypad need to accept input from user. | Implemented
 
+# Badges
+
+## Badges
+![Github Badge](https://img.shields.io/badge/Code%20grade-B-brightgreen)
+![Github Badge](https://img.shields.io/badge/Code%20Quality%20Score-80-brightgreen)
+
+

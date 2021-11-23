@@ -1,6 +1,5 @@
 #include "ATM.h"
 
-
 /*
   This function will search for the PIN entered by the user
   in the file where the PIN numbers are stored

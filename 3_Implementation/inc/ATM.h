@@ -1,5 +1,5 @@
 /**
- * @file feature.h
+ * @file ATM.h
  * @author Saba Begum ()
  * @brief ATM function prototypes
  * @version 0.1
@@ -11,8 +11,8 @@
 
 
 
-#ifndef FEATURE_H
-#define FEATURE_H
+#ifndef ATM_H
+#define ATM_H
 
 #include<stdio.h>
 #include<stdlib.h>

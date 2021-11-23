@@ -97,5 +97,3 @@ By giving input to ATM and it provide the requirements as per user need.
 # Badges
 ![GithubBadge](https://img.shields.io/badge/Code%20grade-B-brightgreen)
 ![Githubscore](https://img.shields.io/badge/Code%20Quality%20Score-80-brightgreen)
-
-

@@ -47,6 +47,20 @@ To keep ATM fees down, use an ATM branded by your own bank as often as possible.
 ![SWOT-Sample](https://simplybanking.files.wordpress.com/2014/03/indicash.jpg)
 
 
+# Requirements
+1. VS code
+2. Github as version control
+3. GCC in windows as well as linux
+4. WSL/Dual boot/VMware
+5. Mingw
+
+
+# Tools used 
+1. MS project professional for creating gantt chart
+2. WPS office for reading txt file
+3. Online tools for creating uml diagrams
+
+
 # 4W's and 1'H
 ## Who:  
 ATM user.

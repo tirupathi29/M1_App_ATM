@@ -28,13 +28,6 @@ typedef struct node {
 } node;
 
 
-/*
-  node structure for implementing a queue to store transaction history
-*/
-typedef struct node {
-    char statement[50];
-    struct node* link;
-} node;
 
 /*
   ATM function prototypes
@@ -49,6 +42,15 @@ void removeHistory(node **);
 void showHistory(node **);
 
 
+
+int main(void) {
+    int choice1, choice2;
+    int pinValid = 0, balance = 0;
+
+    node *head = NULL;
+  
+  
+  
 #endif
 
 /**

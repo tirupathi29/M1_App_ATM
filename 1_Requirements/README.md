@@ -83,13 +83,12 @@ By giving input to ATM and it provide the requirements as per user need.
 
 # Detail Requirements
 
-## High-Level Requirements
+## High-Level Requirements  
 |ID| Description | Status
 |--|--|--|
 | HL1 | A customer must be able to make a transfer of money between any two accounts linked to the card. | Implemented
 | HL2 | A customer must be able to make a deposit to any account linked to the card, consisting of cash and/or checks in an envelope | Implemented
-
-## Low-Level Requirements
+## Low-Level Requirements  
 |ID| Description | Status
 |--|--|--|
 | LL1 | Pin need to be entered in 20sec.|Implemented
